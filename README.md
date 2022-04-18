@@ -4,5 +4,4 @@
 NodeJS and SQL.
 - I also have experience with working with teams of 5-6 people on education-related projects from my university. After working on those prjects, I am able to use frameworks
 (Spring Boot), create and manage databases(using H2), create servers and ways to communicate between them(Microservice Architecture) and use Version Control(git).
-- This repository will be specifically used to add any tools, programs or small projects i have used pr created in the past.
---->
+- This repository will be specifically used to add any tools, programs or small projects i have used or created in the past.
